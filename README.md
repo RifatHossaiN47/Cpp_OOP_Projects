@@ -147,15 +147,15 @@ The application features a clean console interface with organized menus and data
 | :-------------------------: | :-------------------------: | :-------------------------: |
 | ![1](Screenshots/shot0.png) | ![2](Screenshots/shot1.png) | ![3](Screenshots/shot2.png) |
 
-|      Teacher Dashboard      |      Student Dashboard      |       Data Management       |
+|      Teacher Dashboard      |         Adding Data         |       Data Management       |
 | :-------------------------: | :-------------------------: | :-------------------------: |
 | ![4](Screenshots/shot3.png) | ![5](Screenshots/shot4.png) | ![6](Screenshots/shot5.png) |
 
-|       Viewing Records       |         Adding Data         |        More Features        |
+|      Student Dashboard      |        Viewing data         |    Announcement Section     |
 | :-------------------------: | :-------------------------: | :-------------------------: |
 | ![7](Screenshots/shot6.png) | ![8](Screenshots/shot7.png) | ![9](Screenshots/shot8.png) |
 
-|       Additional View        |
+|             Exit             |
 | :--------------------------: |
 | ![10](Screenshots/shot9.png) |
 
